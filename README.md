@@ -1,32 +1,25 @@
-<h1 align="center">Welcome to My Awesome GitHub Profile!</h1>
+<h1 align="center">GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://github.com/[Rafigotnochill]/[Rafigotnochill]/blob/main/github-profile-pic.png" alt="Profile Pic" width="200" height="200">
+  <img src="https://media.discordapp.net/attachments/987929250847928340/987952093669232660/Zwenlis_ManGIF_15.gif" alt="Profile Pic" width="200" height="200">
 </p>
 
-<p align="center">Hi there! I'm [your-name], a [your-profession] who loves to create innovative projects and contribute to open source. I'm passionate about [your-interests] and always eager to learn something new.</p>
+<p align="center">Hi there! I'm Rafi, I am A Student And A Discord Bot Developer. I like to Make Discord Bots.</p>
 
-<h2 align="center">Skills &amp; Technologies</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/[your-skill]-[skill-level]-blueviolet" alt="Skill Badge">
-  <img src="https://img.shields.io/badge/[your-tech-stack]-[tech-level]-orange" alt="Tech Badge">
-  <img src="https://img.shields.io/badge/[your-another-skill]-[skill-level]-yellowgreen" alt="Another Skill Badge">
-</p>
+<h2 align="center">Skills &amp; Python , Html , Css</h2>
 
 <h2 align="center">Projects</h2>
 
 <ul>
-  <li><a href="[your-project-link]">[your-project-name]</a>: [your-project-description]</li>
-  <li><a href="[your-another-project-link]">[your-another-project-name]</a>: [your-another-project-description]</li>
+  <li><a href="[https://github.com/RafiGotNoChill/VisionX]">[VisionX]</a> </li>
 </ul>
 
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
-  <a href="[your-website-link]">Website</a> |
-  <a href="[your-linkedin-link]">LinkedIn</a> |
-  <a href="[your-email-link]">Email</a>
+  <a href="[https://dsc.gg/red-dev]">Youtube</a> |
+  <a href="[https://dsc.gg/red-dev]">Discord Server</a> |
+  <a href="[https://discord.com/users/846229333981790280]">Dm Discord</a>
 </p>
 
 
